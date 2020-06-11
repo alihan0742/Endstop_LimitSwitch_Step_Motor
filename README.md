@@ -1,5 +1,5 @@
-# Endstop_LimitSwitch_Step_Motor
-Movement in Step Motor Linear Axis with Limit Switches
+# Endstop_LimitSwitch_Step_Motor & NEMA17 Working with Drive A4988 
+Movement in Step Motor Linear Axis with Limit Switches & A4988 Using A Driver
 
 ##############################################################################################
 
